@@ -1,5 +1,5 @@
 # My-Portfolio
-A little about me.
+
 
 
 Copyright © Zach Schwab 2025.
