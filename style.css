@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+  background-color: Teal;
+  text-align: center;
+}
+
+
+/* p:first-of-type {
+    text-indent: 40px;
+} */
+
+p {
+  color: rgb(0, 0, 160);
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: left;
+    text-indent: 40px;
+
+}
+
+p:last-of-type {
+    text-indent: 0;
+}
+
+h1 {
+  color: Pink;
+  font-size: 48px;
+  /* margin-bottom: 60px; */
+}
+
+h2 {
+  color: pink;
+  font-size: 30px;
+}
+
+h3 {
+  color: rgb(0, 0, 160);
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+button {
+  background-color: lightblue;
+  font-size: 20px;      /* Makes text inside the button bigger */
+  padding: 10px 20px;   /* Increases the space inside the button */
+  margin: 10px;          /* Adds space around the button */
+  border-radius: 8px;   /* Curve */
+  margin-bottom: 60px;
+  margin-top: 20px;
+      /* box-shadow: 0 0 10px rgba(173, 216, 230, 0.7);
+      transition: box-shadow 0.3s ease; */
+}
+
+
+#button2  {
+    background-color: lightblue;
+  font-size: 20px;      /* Makes text inside the button bigger */
+  padding: 10px 20px;   /* Increases the space inside the button */
+  margin: 10px;          /* Adds space around the button */
+  border-radius: 8px;   /* Curve */
+  margin-bottom: 20px;
+  margin-top: 20px;
+      /* box-shadow: 0 0 10px rgba(173, 216, 230, 0.7);
+      transition: box-shadow 0.3s ease; */
+}
+
+
+button:hover {
+    box-shadow: 0 0 8px rgba(173, 216, 230, 1);
+}
+
+
+img {
+padding: 25px;
+  border-radius: 35px; 
+}
+
+
